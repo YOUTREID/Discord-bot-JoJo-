@@ -159,4 +159,4 @@ Commands
 .version
 .oraoraora```""")
 
-client.run('NjkxODI5MzIxNjEzOTY3Mzcw.XnlqtA.fpf_LVvlvA_iWOriJo4Hn1YxkEY')
+client.run()
