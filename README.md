@@ -10,7 +10,9 @@ functions
 .memes
 .jokes
 .reddit
-.hentai
-.latency
-.version
-.oraoraora
+music playing commands
+.play
+.pause
+.queue
+.next
+.stop
