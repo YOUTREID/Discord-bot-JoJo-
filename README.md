@@ -1,18 +1,4 @@
 # Discord-bot-JoJo-
-bot for discord using python
+bot for Discord using python
 
-functions
-.help
-.info
-.ping
-.siri
-.clear
-.memes
-.jokes
-.reddit
-music playing commands
-.play
-.pause
-.queue
-.next
-.stop
+main functions consist of music playing, reddit / web scrapping as well as channel moderation tools
